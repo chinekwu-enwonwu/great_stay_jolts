@@ -6,19 +6,21 @@ After the record wave of quitting in 2021 and 2022, U.S. workers have been stayi
 Bureau of Labor Statistics Job Openings and Labor Turnover Survey (JOLTS) to measure how far hiring, quitting, and
 job openings have moved from their pre-pandemic levels, and which industries have cooled the most.
 
+This is a quick descriptive project. I was curious about how the pandemic changed the way people quit and get hired, and whether those changes have lasted.
+
 ## Findings
 
 **Is the Great Stay ending? Not yet. U.S. workers are quitting less than they did before the pandemic, and employers are hiring less too.**
 
 Over the 12 months through September 2026, the quits rate averaged 2.0%, below its 2019 average of 2.3% and well
 below the 2.8% of 2022. Quitting is a useful measure of worker confidence: people leave a job when they expect to
-find a better one. By that measure, workers are more cautious today than they were before the pandemic.
+find a better one. By that measure, workers seem to be  more cautious today than they were before the pandemic.
 
-The bigger change is in hiring. The hires rate averaged 3.3%, down from 3.9% in 2019. Job openings, at 4.3%, are
-only slightly below their 2019 level of 4.5%, after falling sharply from 6.8% in 2022. Employers are still posting
-jobs at close to pre-pandemic rates, but they are filling fewer of them. With layoffs also low, at 1.1% compared
-with 1.2% in 2019, the result is a "low-hire, low-fire" labor market. Workers who have jobs are holding on to them,
-and job seekers have a harder time getting hired.
+The bigger change is in hiring. The hires rate averaged 3.3%, down from 3.9% in 2019. Job openings, at 4.3%, are 
+only slightly below their 2019 level of 4.5%, after falling sharply from 6.8% in 2022, so openings are close to 
+pre-pandemic levels while hiring has not kept pace. Layoffs are also low, at 1.1% compared with 1.2% in 2019. 
+Together, these numbers describe a “low-hire, low-fire” labor market. The pattern suggests that workers with jobs 
+are holding on to them, and that job seekers may find it harder to get hired.
 
 The drop in quitting is largest in professional and business services, where the quits rate is 0.98 percentage
 points below its 2019 average. Government has barely changed, at 0.04 points below 2019. Measured from 2022,
